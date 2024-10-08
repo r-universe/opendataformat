@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "opendataformat"]
+	path = opendataformat
+	url = https://github.com/opendataformat/r-package-opendataformat
